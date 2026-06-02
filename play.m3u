@@ -1334,7 +1334,29 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v
 #EXTINF:-1 tvg-logo="" group-title="Extra Movies", Cinemax West
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies",Movies Now HD
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies",MNX HD
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies",MN+
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies",Romedy Now
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 
 
