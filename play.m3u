@@ -1254,6 +1254,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be
 ##########################################  Extra Movies  ###################################################
 #############################################################################################################
 
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=204
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="DramaWorld.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png",Drama World
+https://ayo.maling.pl/Vision/index.mpd?id=204
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="HBO HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
