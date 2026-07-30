@@ -1256,6 +1256,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cf0b53
 #EXTVLCOPT:http-user-agent=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
+#EXTINF:-1 tvg-id="Warner.id" group-title="Extra Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64d73e01c0b7476b89914fd9b4df38dc:28eb553384c940158bd3f0d0c9b38e0f
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 
 
