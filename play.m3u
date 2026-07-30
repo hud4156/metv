@@ -1238,7 +1238,15 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="Extra Movies",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64d73e01c0b7476b89914fd9b4df38dc:28eb553384c940158bd3f0d0c9b38e0f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="Warner.id" group-title="Extra Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 
 
