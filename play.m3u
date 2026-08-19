@@ -1264,26 +1264,14 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="Extra Movies",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:0 group-title="Extra Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png",SCTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=204
-https://tvratu.my.id/vid/index.mpd?id=204
-
-#EXTINF:0 group-title="Extra Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=205
-https://tvratu.my.id/vid/index.mpd?id=205
-
-#EXTINF:-1 group-title="Extra Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=206
-https://tvratu.my.id/vid/index.mpd?id=206
+#EXTINF:-1 tvg-id="HBO ( OTT NAV )" tvg-name="HBO ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-fVO4vCYo_Bo/YJZOdutTXbI/AAAAAAAAEqs/yWuL62zcS50CoTEme5Gpgkwb51VIJHE4ACLcBGAsYHQ/s720/HBO-Poster.png" group-title="Extra Movies,HBO
+http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5UKXMaXOokm8Uqto0jdp9zQ/m3u8
+#EXTINF:-1 tvg-id="HBO Family ( OTT NAV )" tvg-name="HBO Family ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-DC2p8aCvtbA/YJZOc8QTEeI/AAAAAAAAEqo/c2Rk1qqcQDQqmRjOMs1HTWIi5j2S6GejACLcBGAsYHQ/s720/HBO-FAMILY-Poster.png" group-title="Extra Movies",HBO Family
+http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5dL6WCvGOgXkijqeQMT34x8/m3u8
+#EXTINF:-1 tvg-id="HBO Hits ( OTT NAV )" tvg-name="HBO Hits ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-SsD9V2FhzJM/YJZOdmqvxdI/AAAAAAAAEqw/_OPW7f_7qxANFkqdmWeMV8abvKTS1d8ywCLcBGAsYHQ/s720/HBO-HITS-Poster.png" group-title="Extra Movies",HBO Hits
+http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5YWmpKZturF1c_45y06T7_g/m3u8
+#EXTINF:-1 tvg-id="HBO Signature ( OTT NAV )" tvg-name="HBO Signature ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-CiUjEtGHIlE/YJZOdwP98bI/AAAAAAAAEq0/a3yA-vkfAvET4svikVZw5GrVR-8E2eD-wCLcBGAsYHQ/s720/HBO-SIGNATURE-Poster.png" group-title="Extra Movies",HBO Signature
+http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5RbceB29EejRfcxXmhZoaQo/m3u8
 
 
 
