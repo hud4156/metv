@@ -1235,7 +1235,7 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="Extra Movies",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="HBO ( OTT NAV )" tvg-name="HBO ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-fVO4vCYo_Bo/YJZOdutTXbI/AAAAAAAAEqs/yWuL62zcS50CoTEme5Gpgkwb51VIJHE4ACLcBGAsYHQ/s720/HBO-Poster.png" group-title="Extra Movies,HBO
+#EXTINF:-1 tvg-id="HBO ( OTT NAV )" tvg-name="HBO ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-fVO4vCYo_Bo/YJZOdutTXbI/AAAAAAAAEqs/yWuL62zcS50CoTEme5Gpgkwb51VIJHE4ACLcBGAsYHQ/s720/HBO-Poster.png" group-title="Extra Movies",HBO
 http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5UKXMaXOokm8Uqto0jdp9zQ/m3u8
 #EXTINF:-1 tvg-id="HBO Family ( OTT NAV )" tvg-name="HBO Family ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-DC2p8aCvtbA/YJZOc8QTEeI/AAAAAAAAEqo/c2Rk1qqcQDQqmRjOMs1HTWIi5j2S6GejACLcBGAsYHQ/s720/HBO-FAMILY-Poster.png" group-title="Extra Movies",HBO Family
 http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5dL6WCvGOgXkijqeQMT34x8/m3u8
@@ -1252,7 +1252,7 @@ https://vidsemar.pages.dev/terraluna/204.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar HD
 https://vidsemar.pages.dev/terraluna/205.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="__" group-title=Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji HD
+#EXTINF:-1 tvg-id="__" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji HD
 https://vidsemar.pages.dev/terraluna/206.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ANTV.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV HD
