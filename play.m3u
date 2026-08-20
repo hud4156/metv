@@ -1246,19 +1246,19 @@ http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5RbceB29EejRfcxXmhZoaQo/m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SCTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV HD
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV HD
 https://vidsemar.pages.dev/terraluna/204.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar HD
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar HD
 https://vidsemar.pages.dev/terraluna/205.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="__" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji HD
+#EXTINF:-1 tvg-id="__" group-title=Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji HD
 https://vidsemar.pages.dev/terraluna/206.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="ANTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV HD
+#EXTINF:-1 tvg-id="ANTV.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV HD
 https://vidsemar.pages.dev/terraluna/782.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MDTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV HD
+#EXTINF:-1 tvg-id="MDTV.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV HD
 https://vidsemar.pages.dev/terraluna/875.mpd
 
 =====================================================================================================================================================
