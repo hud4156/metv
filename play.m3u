@@ -1263,6 +1263,14 @@ https://vidsemar.pages.dev/terraluna/875.mpd
 
 
 
+#EXTINF:-1 group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png",ChampionsTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=9182
+https://tvratu.my.id/vid/index.mpd?id=9182
+
+
 =====================================================================================================================================================
 =====================================================================================================================================================
 
