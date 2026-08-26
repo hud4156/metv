@@ -1235,15 +1235,6 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="Extra Movies",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="HBO ( OTT NAV )" tvg-name="HBO ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-fVO4vCYo_Bo/YJZOdutTXbI/AAAAAAAAEqs/yWuL62zcS50CoTEme5Gpgkwb51VIJHE4ACLcBGAsYHQ/s720/HBO-Poster.png" group-title="Extra Movies",HBO
-http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5UKXMaXOokm8Uqto0jdp9zQ/m3u8
-#EXTINF:-1 tvg-id="HBO Family ( OTT NAV )" tvg-name="HBO Family ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-DC2p8aCvtbA/YJZOc8QTEeI/AAAAAAAAEqo/c2Rk1qqcQDQqmRjOMs1HTWIi5j2S6GejACLcBGAsYHQ/s720/HBO-FAMILY-Poster.png" group-title="Extra Movies",HBO Family
-http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5dL6WCvGOgXkijqeQMT34x8/m3u8
-#EXTINF:-1 tvg-id="HBO Hits ( OTT NAV )" tvg-name="HBO Hits ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-SsD9V2FhzJM/YJZOdmqvxdI/AAAAAAAAEqw/_OPW7f_7qxANFkqdmWeMV8abvKTS1d8ywCLcBGAsYHQ/s720/HBO-HITS-Poster.png" group-title="Extra Movies",HBO Hits
-http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5YWmpKZturF1c_45y06T7_g/m3u8
-#EXTINF:-1 tvg-id="HBO Signature ( OTT NAV )" tvg-name="HBO Signature ( OTT NAV )" tvg-logo="https://1.bp.blogspot.com/-CiUjEtGHIlE/YJZOdwP98bI/AAAAAAAAEq0/a3yA-vkfAvET4svikVZw5GrVR-8E2eD-wCLcBGAsYHQ/s720/HBO-SIGNATURE-Poster.png" group-title="Extra Movies",HBO Signature
-http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5RbceB29EejRfcxXmhZoaQo/m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV HD
@@ -1263,12 +1254,7 @@ https://vidsemar.pages.dev/terraluna/875.mpd
 
 
 
-#EXTINF:-1 group-title="Extra Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png",ChampionsTV5
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=9182
-https://tvratu.my.id/vid/index.mpd?id=9182
+
 
 
 =====================================================================================================================================================
