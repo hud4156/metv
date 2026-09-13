@@ -1349,7 +1349,9 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
