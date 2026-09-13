@@ -1258,109 +1258,108 @@ https://cdnjktidc01.transvision.co.id/riutx01-d811227a374f49bbd75cb9f3126034fd/d
 #############################################################################################################
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HBO HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HBO Hits HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/rP1bUsQ.png",CINEMAX
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
-#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO 1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
-#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO 2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO Zone
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
-#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO Zone
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO West
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
-#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO West
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies",HBO Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies",HBO Comedy
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
-#EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO Signature
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
   
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
-#EXTINF:-1 tvg-logo="" group-title="Extra Movies",Cinemax
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies", Cinemax East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
-#EXTINF:-1 tvg-logo="" group-title="Extra Movies", Cinemax East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies", Cinemax West
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
-#EXTINF:-1 tvg-logo="" group-title="Extra Movies", Cinemax West
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
   
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="" group-title="Extra Movies",Movies Now HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="" group-title="Extra Movies",MNX HD
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-logo="" group-title="Extra Movies",MN+
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Extra Movies",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="" group-title="Extra Movies",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 #EXTINF:-1 tvg-id="__" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=206
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MDTV.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
 
 
