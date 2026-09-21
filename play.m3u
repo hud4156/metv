@@ -1400,7 +1400,7 @@ http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34353
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/rP1bUsQ.png",CINEMAX
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34355
 
-#EXTINF:-1 tvg-id="Warner.id" group-title=" Extra Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
+#EXTINF:-1 tvg-id="Warner.id" group-title="Extra Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
