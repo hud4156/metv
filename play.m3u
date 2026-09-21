@@ -1386,29 +1386,19 @@ https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/UGl
 
 
 #EXTINF:-1 tvg-id="HBO HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34354
 
 #EXTINF:-1 tvg-id="HBO Hits HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34350
 
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34348
 
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34353
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/rP1bUsQ.png",CINEMAX
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34355
 
 #EXTINF:-1 tvg-id="Warner.id" group-title=" Extra Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
