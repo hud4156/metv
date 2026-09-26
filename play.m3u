@@ -1546,7 +1546,12 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 
 
-
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/670/493670-LOGO-m.png",CBeebies/TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=58
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 
 
