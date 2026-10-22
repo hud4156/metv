@@ -267,8 +267,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VHJhbnNUVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV 3
-http://013tv.com:8080/F33848/cbd9779b/162503
 http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGaZQL0MY_PoKmGfKrbTKieo
+#http://013tv.com:8080/F33848/cbd9779b/162503
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -285,8 +285,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VFJBTlM3LW15/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7 3
-http://013tv.com:8080/F33848/cbd9779b/162502
 http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGToW4dSjXMlQlVWoX0deN6w
+#http://013tv.com:8080/F33848/cbd9779b/162502
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1410,16 +1410,19 @@ https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779
 
 
 #EXTINF:-1 tvg-id="HBO HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO
-http://31.43.191.125:8080/restream/restream/34571
+http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGcNOx8OY0hL8WW1NxCCizn4
+#http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-id="HBO Hits HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS
-http://31.43.191.125:8080/restream/restream/34540
+http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGUBODTYP9hw_qlnGxtRI54c
+#http://31.43.191.125:8080/restream/restream/34540
 
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY
 http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGUQCJP9aDCExeguQ_F9JixU
 
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE
-http://31.43.191.125:8080/restream/restream/34647
+http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGXsKcFCOvZEZXmPUPdMS_U8
+#http://31.43.191.125:8080/restream/restream/34647
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/rP1bUsQ.png",CINEMAX
 http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGSYC0Oa8oC8zFSanAnCg8sw
