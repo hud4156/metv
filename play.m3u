@@ -1416,13 +1416,13 @@ http://31.43.191.125:8080/restream/restream/34571
 http://31.43.191.125:8080/restream/restream/34540
 
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY
-http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34348
+http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGUQCJP9aDCExeguQ_F9JixU
 
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE
 http://31.43.191.125:8080/restream/restream/34647
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/rP1bUsQ.png",CINEMAX
-http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34355
+http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGSYC0Oa8oC8zFSanAnCg8sw
 
 #EXTINF:-1 tvg-id="Warner.id" group-title="Extra Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1498,6 +1498,11 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-id="Miramax Film" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png" group-title="Extra Movies",Miramax Film
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e08a6933238d3fb585c00a7d95e896c:2d55d1208eaeabcc57e3b7b92c4e9f09
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd?encoding=segmentBase
 
 
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/670/493670-LOGO-m.png",CBeebies/TEST
