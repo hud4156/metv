@@ -1511,14 +1511,26 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/
 
 #EXTINF:-1 tvg-id="__" group-title="Extra Movies" tvg-logo="__",1/TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:network-caching=2000
 http://013tv.com:8080/live/F33848/cbd9779b/162502.ts
 
 #EXTINF:-1 tvg-id="__" group-title="Extra Movies" tvg-logo="__",2/TEST
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:network-caching=2000
 http://013tv.com:8080/live/F33848/cbd9779b/162503.ts
 
 #EXTINF:-1 tvg-id="__" group-title="Extra Movies" tvg-logo="__",3/TEST
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:network-caching=2000
 http://013tv.com:8080/live/F33848/cbd9779b/162509.ts
 
 
