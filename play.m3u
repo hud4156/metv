@@ -156,24 +156,28 @@ https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.id" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40557a1738018d4dd815e79f2cfc6b30:3967abe5845e8c4fffbd2f4cd4b77f0a
 https://tvcdn.tv.telia.lt/live/eds/Nickelodeon_H/DASH_5_CPIX_NPVR/Nickelodeon_H.mpd
 
 #EXTINF:-1 tvg-id="NickJr.id" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46beefe8a4d11f36822b75d9a67a42be:e94946dcfd579b24e2c41a1cb051e18a
 https://tvcdn.tv.telia.lt/live/eds/Nick_Jr_H/DASH_5_CPIX_NPVR/Nick_Jr_H.mpd
 
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="Kids",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff8085fd9469913a6f11fb3a4dd3a1be:2496ee469b2d1a19c22271a7b89c29e0
 https://tvcdn.tv.telia.lt/live/eds/Disney_Channel_H/DASH_5_CPIX_NPVR/Disney_Channel_H.mpd
 
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-junior.png" group-title="Kids",Disney Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ecc83e1cbb1f4c1bd3343845f55b361:560a022b2d0e0909420fd363101b2e3b
 https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junior_H.mpd
