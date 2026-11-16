@@ -110,7 +110,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://bintangstreaming.my.id/forsat23/podi.php/.mpd?id=8237
+https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=8237
 
 #EXTINF:-1 tvg-id="DuniaAnak.id@SD" group-title="Kids" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/76e39ba2-62b9-4f96-90ae-3de803edb400.png",Dunia Anak
 #EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
@@ -394,7 +394,7 @@ https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://bintangstreaming.my.id/forsat23/podi.php/.mpd?id=204
+https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=204
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -414,7 +414,7 @@ https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://bintangstreaming.my.id/forsat23/podi.php/.mpd?id=205
+https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=205
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -565,7 +565,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://bintangstreaming.my.id/forsat23/podi.php/.mpd?id=206
+https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=206
 
 #EXTINF:-1 tvg-id="Moji.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji HD3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
