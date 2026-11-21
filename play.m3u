@@ -12,7 +12,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=58
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=2a5668fb3b9f4e34ab7c02cdc6ef56db&ch=0058&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/670/493670-LOGO-m.png",CBeebies SD
@@ -25,7 +25,7 @@ https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=60
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=27163af9499b4bcca2da96677b158efe&ch=0060&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
 #EXTINF:-1 tvg-id="NickJrAsia.sg@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr SD
@@ -38,14 +38,14 @@ https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=64
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=3fe6d9eb97ed455c942eb8d3d1c2c2e8&ch=0064&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png",Dreamworks HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=67
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=7518da9041c4414d86f173daa719152e&ch=0067&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png",Dreamworks SD
@@ -58,7 +58,7 @@ https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=56
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=9041826689ae4f9c9619576d411fa989&ch=0056&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",KidsTV SD
@@ -77,7 +77,7 @@ https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=63
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=8554b3cb938e44038093df2d65080932&ch=0063&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png",ZooMoo SD
@@ -90,7 +90,7 @@ https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=57
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=198f7febb48c4c909d62977d88c195b0&ch=0057&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
 #EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug SD
@@ -103,7 +103,7 @@ https://proxy-v.rctiplus.id/live/web/moonbug/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=20
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=703a71abac3844748b1e68166242d4f3&ch=0020&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 tvg-id="MentariTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-m.png",MentariTV HD2
@@ -240,7 +240,7 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=997ce8767b604fae9fce05379b3b8b3a&ch=0001&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD2
@@ -265,7 +265,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=2
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=d6b026ad50f14b7f9af5ddd5450007d4&ch=0002&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV HD2
@@ -290,7 +290,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=3
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=b8b9b1d5f80f45649b4a3619291551ab&ch=0003&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD2
@@ -315,7 +315,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=4
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=34d8dd29eb1d4eba931c7c5ab5f4be09&ch=0004&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews HD2
@@ -332,7 +332,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TransTV HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=6
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=7a69cfc9e135493f87ac4efd63000429&ch=0006&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TransTV HD2
@@ -356,7 +356,7 @@ https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=7
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=0fd7b7d368bc44bc9b4dece20acc3e33&ch=0007&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans7 HD2
@@ -380,7 +380,7 @@ https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=8
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=9e9aba7068ca4c7f8a73381bef5f8742&ch=0008&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV HD2
@@ -400,7 +400,7 @@ https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=204
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=9
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=0009&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar HD2
@@ -420,7 +420,7 @@ https://bintangstreaming.my.id/forsat23/podi1.php/.mpd?id=205
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=10
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=0a6c6b1534444ab4bd903af8761e6747&ch=0010&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV HD2
@@ -440,7 +440,7 @@ https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=11
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=b0eebcecfb12424cb5f3c3cdb239f3c1&ch=0011&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV HD2
@@ -464,7 +464,7 @@ https://proxy-v.rctiplus.id/live/web/rtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=12
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=f3df48faafaf4198a65b9763140fce30&ch=0012&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne HD2
@@ -484,7 +484,7 @@ https://proxy-v.rctiplus.id/live/web/tvone/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=13
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=dafcaf8b26064ae7b27702088240b535&ch=0013&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",KompasTV HD2
@@ -504,7 +504,7 @@ https://proxy-v.rctiplus.id/live/web/kompas/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=14
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=fd4360b1c12c4375848c8f085fd51d41&ch=0014&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV HD2
@@ -524,7 +524,7 @@ https://proxy-v.rctiplus.id/live/web/metrotv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=15
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=85f6d3da0e064dbe99e7bf1e18bc47c4&ch=0015&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI Nasional HD2
@@ -544,7 +544,7 @@ https://proxy-v.rctiplus.id/live/web/tvri/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=18
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=2b8aede350b84af18f9dd2e1de6b9c5e&ch=0018&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/2b8aede350b84af18f9dd2e1de6b9c5e/index.mpd
 
 #EXTINF:-1 tvg-id="DAAITV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png",DaAiTV HD2
@@ -558,7 +558,7 @@ https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=19
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=2f1c4190dcf045c9aafc447d54ef7c91&ch=0019&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
 #EXTINF:-1 tvg-id="Moji.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji HD2
@@ -583,7 +583,7 @@ https://proxy-v.rctiplus.id/live/web/moji/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=23
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=3aefa03d32954b678e5faab6daa04b58&ch=0023&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-id="MDTV.id@HD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV HD2
@@ -608,7 +608,7 @@ http://gvisiontv2.channell.my.id/ch/id/mdtvnow1.php/.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=24
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=77641c37b4834a9db823ec5137774973&ch=0024&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #EXTINF:-1 tvg-id="JTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png",JTV HD2
@@ -628,7 +628,7 @@ https://proxy-v.rctiplus.id/live/web/jtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=25
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=fea2c4b90ae2472d891389eb8b95571c&ch=0025&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
 
 #EXTINF:-1 tvg-id="JakTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png",JakTV HD2
@@ -648,7 +648,7 @@ https://proxy-v.rctiplus.id/live/web/jaktv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=26
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=44a2d1ab71a740babb233cf14832c59d&ch=0026&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTINF:-1 tvg-id="BaliTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png",BaliTV SD
@@ -661,7 +661,7 @@ https://proxy-v.rctiplus.id/live/web/balitv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=27
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=f16b53f0d5ed459da208c459049c9bb0&ch=0027&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
 #EXTINF:-1 tvg-id="BandungTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png",BandungTV SD
@@ -976,7 +976,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/in
 #EXTINF:-1 tvg-id="Sportstars.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=89a6e4261cd7470f83e5869e90440cff&ch=0112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar SD
@@ -988,7 +988,7 @@ https://proxy-v.rctiplus.id/live/web/ss1/index.m3u8
 #EXTINF:-1 tvg-id="Sportstars2.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=d2c68a3dfb644808b416bd90dcc92d5f&ch=0113&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars2.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2 SD
@@ -1000,7 +1000,7 @@ https://proxy-v.rctiplus.id/live/web/ss2/index.m3u8
 #EXTINF:-1 tvg-id="Sportstars3.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=6f5596513af749c19d0bcdac013dda3c&ch=0114&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars3.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3 SD
@@ -1012,7 +1012,7 @@ https://proxy-v.rctiplus.id/live/web/ss3/index.m3u8
 #EXTINF:0 tvg-id="Sportstars4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports",Sportstar 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=205
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=2fcc58ccec8c45e9aa094fb980eb642d&ch=0205&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:0 tvg-id="Sportstars4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports",Sportstar 4 SD
@@ -1024,55 +1024,55 @@ https://proxy-v.rctiplus.id/live/web/ss4/index.m3u8
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=115
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=63c0da12bb4d48afbaf053f51dff2353&ch=0115&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=119
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=b4814ae93ca84dd3bb5b0aff76ca263f&ch=0119&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=46d9cf39b9a84183b8d5022ac8f4bc41&ch=0120&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=122
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=3b0660e05eed4d769521eb0275aab3ab&ch=0122&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
 
 #EXTINF:-1 tvg-id="beINSports2.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=123
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=cfca527d0f16403396a71b2d3d54c32f&ch=0123&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd  
 
 #EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=124
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=a265695db5cb461095cbfefc02ad793b&ch=0124&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports4.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=125
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=2e55bc8199044c27b1dbb827af65a04f&ch=0125&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports5.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=126
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d6m3sfa7e58z5&id=fe4d00f07e2f43b789102b84b4d243a9&ch=0126&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-id="FightSports" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png",Fight Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=121
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=73b7057c72da4615888a11b02a6cbb3c&ch=0121&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 #EXTINF:-1 tvg-id="FightSports" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png",Fight Sports SD
@@ -1084,61 +1084,61 @@ https://proxy-v.rctiplus.id/live/web/fightsports/index.m3u8
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png",V+ LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1002
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=89a6e4261cd7470f83e5869e90440cff&ch=1002&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png",V+ LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1010
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=d2c68a3dfb644808b416bd90dcc92d5f&ch=1010&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png",V+ Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1011
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=f224a4945f2f48e892fb896645a9af6b&ch=1011&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-l.png",V+ LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1012
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=113af3d432214f62bd6815f976bf2cd6&ch=1012&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-l.png",V+ LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1013
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2xz2v5wuvgur6&id=997ce8767b604fae9fce05379b3b8b3a&ch=1013&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png",V+ LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1014
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2o5iwa2ppb5z7&id=dash&ch=1014&type=drm
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1015
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=eb98aca0a1be41f7b9c05dac051a250e&ch=1015&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1016
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=943ac2b78bfa4e8eab531c3880aa337a&ch=1016&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/943ac2b78bfa4e8eab531c3880aa337a/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1017
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d3b0v7fggu5zwm&id=32aa4a6344fd435bb78826c719c11923&ch=1017&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=1018
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=8983f9a68f0d4f169a77f3ce20ab2685&ch=1018&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/8983f9a68f0d4f169a77f3ce20ab2685/index.mpd
 
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e14b89e-d803-454f-a35a-752163f30803.png" group-title="Sports", TVRI Sport
@@ -1584,13 +1584,17 @@ https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q
 ##########################################     Music      ###################################################
 #############################################################################################################
 
-#EXTINF:-1 tvg-id="MusicTV.id@SD" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV
+#EXTINF:-1 tvg-id="MusicTV.id@SD" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",MusicTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-###KODIPROP:inputstream=inputstream.adaptive
-###KODIPROP:inputstream.adaptive.license_type=widevine
-###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1rcti_baru1/widevine.php?id=142
-###https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d84q7nw4qf3j3&id=c20d75deb06f401aa89681a9e5054de7&ch=0142&type=drm
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+#EXTINF:-1 tvg-id="MusicTV.id@SD" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",MusicTV SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
 
 #EXTINF:-1 tvg-id="MusikIndonesia.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5532f74e-07ee-4a70-b7d4-b5233778381d.png" group-title="Music",Musik Indonesia
