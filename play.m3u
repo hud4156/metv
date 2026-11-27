@@ -1896,7 +1896,11 @@ http://013tv.com:8080/live/F33848/cbd9779b/162502.ts
 #KODIPROP:network-caching=2000
 http://013tv.com:8080/live/F33848/cbd9779b/162503.ts
 
-
+#EXTINF:-1 tvg-id="__" group-title="Extra Movies" tvg-logo="__",3/TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_xgdr0qbd
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_xgdr0qbd
 
 
 
