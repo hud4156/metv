@@ -343,8 +343,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VHJhbnNUVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TransTV HD3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/800-TransTV/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_uakgnhip
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_uakgnhip
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TransTV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -367,8 +369,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VFJBTlM3LW15/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans7 HD3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/801-Trans7/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_a7dno7wk
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_a7dno7wk
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans7 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1707,28 +1711,40 @@ https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/U
 
 
 #EXTINF:-1 tvg-id="HBO HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_xgdr0qbd
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_xgdr0qbd
 
 #EXTINF:-1 tvg-id="HBO Hits HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_k7eh4erk
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_k7eh4erk
 
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_qqui53si
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_qqui53si
 
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_s6bo567h
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_s6bo567h
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="Extra Movies" tvg-logo="https://i.imgur.com/rP1bUsQ.png",CINEMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_7vx2webw
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_7vx2webw
 
 #EXTINF:-1 tvg-id="Warner.id" group-title="Extra Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/302-WarnerTV/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_meap4fi2
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_meap4fi2
 
 
 #EXTINF:-1 tvg-logo="" group-logo="" group-title="Extra Movies", HBO 1
@@ -1896,11 +1912,6 @@ http://013tv.com:8080/live/F33848/cbd9779b/162502.ts
 #KODIPROP:network-caching=2000
 http://013tv.com:8080/live/F33848/cbd9779b/162503.ts
 
-#EXTINF:-1 tvg-id="__" group-title="Extra Movies" tvg-logo="__",3/TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_xgdr0qbd
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_xgdr0qbd
 
 
 
